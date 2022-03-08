@@ -6,4 +6,7 @@ The instructor's name is Scott Dossey
 
 ## Students
 
-*Todd Moussallem
+* Todd Moussallem
+* Aaron Whitaker
+* Justin Baker
+
